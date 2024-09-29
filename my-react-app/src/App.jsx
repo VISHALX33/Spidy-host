@@ -10,6 +10,9 @@ import PremierControl from './Componentes/PremierControl'
 import Testimonial from './Componentes/Testimonial'
 import QNA from './Componentes/QNA'
 import Footer from './Componentes/Footer'
+import Contect from './Componentes/Contect'
+import Sponser from './Componentes/Sponser'
+import ServerLocation from './Componentes/ServerLocation'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,8 +22,11 @@ function App() {
       
       <Haeder/>
       <Hero/>
+      <Sponser/>
       <Premium/>
+      <Contect/>
       <HostingFeatures/>
+      <ServerLocation/>
       <PremierControl/>
       <Testimonial/>
       <QNA/>

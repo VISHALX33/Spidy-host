@@ -65,7 +65,7 @@ function Premium() {
     </div>
 
     {/* ///////////////////////////3////////////////////////////// */}
-    <div className='bg-white rounded-xl border-2 border-gray py-5 mx-9 text-black  px-12 items-start '>
+    <div className='bg-white rounded-xl border-b-4 border-l-4 border-r-4 border-t-4  border-blue-950 py-5 mx-9 text-black  px-12 items-start '>
     <img src={logo3} alt="" className=' w-80 mb-20  rounded-3xl overflow-hidden  border-2 mt-6  shadow-2xl' />
 
       <div className='text-blue-900 font-semibold text-3xl'>
