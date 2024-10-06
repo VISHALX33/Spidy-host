@@ -71,7 +71,7 @@ function Footer() {
       </div>
       <hr />
        
-       <div className='flex'>
+       {/* <div className='flex'>
 
        <div> 
         <h1 className='mx-10 text-white py-4'>
@@ -91,7 +91,7 @@ function Footer() {
         </div>
 
 
-       </div>
+       </div> */}
       
 
 
